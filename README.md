@@ -10,4 +10,4 @@
 | Égési sérüléses kenőcs (x20) | 1 |
 | Ellenméreg | 6 |
 
-Csapat vagyon: 144gp, 4sp
+Csapat vagyon: 80gp, 0sp
